@@ -1,4 +1,4 @@
-![](https://drive.google.com/file/d/0B47X-c2Z1YtGVFBHWEZzMjJiOFU/view)
+![](https://drive.google.com/file/d/0B47X-c2Z1YtGVFBHWEZzMjJiOFU/)
 
 # [Women observatory](https://elidron.github.io/womenobservatory/)
 
