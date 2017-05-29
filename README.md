@@ -1,3 +1,5 @@
+![](https://drive.google.com/file/d/0B47X-c2Z1YtGVFBHWEZzMjJiOFU/view)
+
 # [Women observatory](https://elidron.github.io/womenobservatory/)
 
 ## Observatorio para la mujer de habilidades digitales
