@@ -19,9 +19,14 @@ Este proyecto construye y apoya un espacio seguro de expresión. Como una de las
 
 > Sin autoestima, es difícil valorar mis habilidades. Si trabajo en aceptarme y desarrollarme plenamente, mi rendimiento educativo y económico mejorará. - Ana María, 28 años, San Luis Potosí, México.
 
-### Participar
+### Que necesitas para contribuir
 
-Puedes colaborar con nosotros levantando un [issue](https://github.com/elidron/womenobservatory/issues) e indicando la forma en que podrías aportar y las habilidades que posees.
+* Ser un estudiante, profesor, investigador o doctorado en una universidad, tener un título universitario o estar trabajando en temas similares al proyecto.
+* Tener una pasión o el deseo de comenzar a ser parte de una comunidad que trabaja en proyectos abiertos.
+
+Cada semana vamos a hacer una llamada o una charla para discutir el proyecto, lo que hemos hecho y los próximos pasos. Vamos a utilizar este [Etherpad](https://public.etherpad-mozilla.org/p/womenobservatory) para realizar un seguimiento de todas las discusiones y tener un resumen de todas nuestras llamadas.
+
+Para obtener más información, véase el documento [CONTRIBUTING.md](https://github.com/elidron/womenobservatory/blob/master/CONTRIBUTING.md).
 
 #### Código de conducta
 
