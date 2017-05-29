@@ -23,4 +23,4 @@ Este proyecto construye y apoya un espacio seguro de expresión. Como una de las
 
 Puedes colaborar con nosotros levantando un [issue](https://github.com/elidron/womenobservatory/issues) e indicando la forma en que podrías aportar y las habilidades que posees.
 
-(https://elidron.github.io/womenobservatory/images/clubs/observatoriomujeres3.png)
+![](https://elidron.github.io/womenobservatory/images/clubs/observatoriomujeres3.png)
