@@ -28,7 +28,7 @@ Cada semana vamos a hacer una llamada o una charla para discutir el proyecto, lo
 
 Para obtener más información, véase el documento [CONTRIBUTING.md](https://github.com/elidron/womenobservatory/blob/master/CONTRIBUTING.md).
 
-#### Código de conducta
+#### Código de conducta - MUY importante
 
 Código de conducta del proyecto [Aquí](https://www.mozilla.org/en-US/about/governance/policies/participation/)
 
